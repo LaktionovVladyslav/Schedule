@@ -20,6 +20,8 @@ lib64/
 parts/
 sdist/
 var/
+.idea/
+.DS_Store
 *.egg-info/
 .installed.cfg
 *.egg
